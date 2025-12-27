@@ -1,0 +1,62 @@
+# עורך דין אופיר שטרנברג — Generative Engine Optimization Map
+
+> אתר עורך דין אופיר שטרנברג מציג מידע מקצועי ועדכני בתחומי המשפט הפלילי, האזרחי וחדלות פירעון, לצד סקירות משפטיות, תיקים מתוקשרים וליווי משפטי אישי. באתר תמצאו הסברים ברורים על הליכים משפטיים, פסיקה עדכנית ודרכי התקשרות לקבלת ייעוץ משפטי
+
+---
+
+## Pages
+
+### בית
+https://-ed2c536e.zappy5.app
+עורך דין אופיר שטרנברג מציע ייצוג משפטי מקצועי ומסור בתחומי המשפט הפלילי, האזרחי וחדלות פירעון. קבלו ייעוץ משפטי אישי ומקצועי.
+
+### תחומי התמחות
+https://-ed2c536e.zappy5.app/services
+תחומי התמחות של עורך דין אופיר שטרנברג: משפט פלילי, משפט אזרחי וחדלות פירעון. ייצוג משפטי מקצועי ומסור בכל תחום.
+
+### אודות
+https://-ed2c536e.zappy5.app/about
+הכירו את עורך דין אופיר שטרנברג - עורך דין פלילי מומלץ בישראל עם שנות ניסיון עשירות בתחומי המשפט הפלילי, האזרחי וחדלות פירעון.
+
+### צור קשר
+https://-ed2c536e.zappy5.app/contact
+צרו קשר עם עורך דין אופיר שטרנברג לקבלת ייעוץ משפטי מקצועי בתחומי המשפט הפלילי, האזרחי וחדלות פירעון. נשמח לעזור לכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ed2c536e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ed2c536e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ed2c536e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עורך דין אופיר שטרנברג
+אתר עורך דין אופיר שטרנברג מציג מידע מקצועי ועדכני בתחומי המשפט הפלילי, האזרחי וחדלות פירעון, לצד סקירות משפטיות, תיקים מתוקשרים וליווי משפטי אישי. באתר תמצאו הסברים ברורים על הליכים משפטיים, פסיקה עדכנית ודרכי התקשרות לקבלת ייעוץ משפטי
+
+## Services/Products
+- משפט פלילי
+- משפט אזרחי
+- חדלות פירעון
+
+## Target Audience
+לקוחות המחפשים ייצוג משפטי
+
+## Industry
+שירותים משפטיים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-ed2c536e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-ed2c536e.zappy5.app/robots.txt
